@@ -1,0 +1,11 @@
+{
+  "name": "leds",
+  "version": "1.0.0",
+  "description": "funky stuff with breadboards, exposed live cables and leds",
+  "main": "index.js",
+  "author": "Christopher Oswald",
+  "license": "MIT",
+  "dependencies": {
+    "pigpio": "^3.2.4"
+  }
+}
